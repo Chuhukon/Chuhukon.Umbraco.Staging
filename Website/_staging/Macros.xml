@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Macros>
+  <macro>
+    <name>block</name>
+    <alias>block</alias>
+    <scriptType></scriptType>
+    <scriptAssembly></scriptAssembly>
+    <xslt></xslt>
+    <useInEditor>False</useInEditor>
+    <refreshRate>0</refreshRate>
+    <scriptingFile>~/Views/MacroPartials/block.cshtml</scriptingFile>
+    <properties>
+      <property name="MainBody" alias="MainBody" propertyType="Umbraco.TextboxMultiple" />
+      <property name="Title" alias="Title" propertyType="Umbraco.Textbox" />
+      <property name="Url" alias="Url" propertyType="Umbraco.Textbox" />
+    </properties>
+  </macro>
+</Macros>

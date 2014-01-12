@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<umbPackage>
+  <info>
+    <package>
+      <name>Chuhukon Website Package</name>
+      <version>0.0</version>
+      <license url="http://chuhukon.nl/LICENSE">(C) Copyright Chuhukon 2012</license>
+      <url>http://chuhukon.nl</url>
+      <requirements>
+        <major>7</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Chuhukon</name>
+      <website>http://chuhukon.nl</website>
+    </author>
+    <readme />
+  </info>
+  <DocumentTypes />
+  <Templates />
+  <Stylesheets />
+  <Macros></Macros>
+  <DictionaryItems />
+  <Languages />
+  <DataTypes />
+  <Actions />
+  <control />
+  <files />
+</umbPackage>
